@@ -12,4 +12,4 @@ In Settings → Pages, select GitHub Actions. Private repository Pages availabil
 
 ## Content before launch
 
-Add the supplied official logo to `public/images/logo.jpg`, approved cake photography, product details and business policies. Enquiries currently go directly to Instagram; no personal data is collected by this site.
+The official logo is stored at `public/logo.jpg`. Add approved cake photography, product details and business policies. Enquiries currently go directly to Instagram; no personal data is collected by this site.
